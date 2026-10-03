@@ -1,4 +1,4 @@
-# OceanScan 
+# OceanScan
 This project is demo for OceanSentinal (The SIH Project).
 
 Object detection on **side-scan sonar imagery** using a custom-trained **YOLOv8n** model, with a noise-filtering preprocessing pipeline.
